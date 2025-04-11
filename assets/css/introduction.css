@@ -1,0 +1,25 @@
+.introduction__heading {
+    font-size: 3.6rem;
+    font-weight: 500;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.introduction__heading-sub {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.introduction__img {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.introduction__des {
+    text-align: justify;
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    color: #333;
+}
